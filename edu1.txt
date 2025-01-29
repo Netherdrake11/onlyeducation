@@ -1,0 +1,1 @@
+git clone https://github.com/Netherdrake11/onlyeducation && cd your-repository && copy C:\path\to\your\file.txt . && git add file.txt && git commit -m "Добавлен новый файл" && git push origin main
